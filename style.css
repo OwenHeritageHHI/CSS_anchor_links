@@ -24,7 +24,9 @@ h2 {
 
 img {
     display: block;
-    margin: auto auto;   
+    margin: auto auto;
+    width: 80%;
+    height: auto;   
 }
 
 p {
